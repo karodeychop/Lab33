@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="name">Name</string>
+    <string name="address_street">Address Street</string>
+    <string name="address_title">Address Title</string>
+    <string name="category">Category</string>
+    <string name="elevation">Elevation</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="description">Description</string>
+    <string name="back_button">Back</string>
+    <string name="place_description_title">Place Description</string>
+    <string name="place_add_title">Add Place</string>
+    <string name="edit_button">Done</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="submit_button">Submit</string>
+    <string name="alert_long_message">Valid Longitude values are between -180.00 and 180.00.</string>
+    <string name="ok_button">Dismiss</string>
+    <string name="alert_lat_message">Valid latitude ranges are between -90.00 and 90.00</string>
+    <string name="alert_empty_message">Latitude or Longitude cannot be empty!</string>
+    <string name="distanceBearingText">Pick two places to compare distance and bearing!</string>
+    <string name="distanceHint">Distance</string>
+    <string name="bearingHint">Bearing</string>
+</resources>
